@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Copy of Qq",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
